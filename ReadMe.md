@@ -4,7 +4,7 @@
 ## AIM
 To create a commercial website using CSS Flexbox.
 
-## ALGORITHM
+## ALGORITHM:
 ### STEP 1
 Create an HTML file (index.html)
 
@@ -873,6 +873,17 @@ section {
 
 
 ## OUTPUT
+Here are some images of the designed Website.
+<img width="1919" height="1026" alt="1" src="https://github.com/user-attachments/assets/cee653db-7429-44df-9533-37ecc090753f" />
+<img width="1919" height="1026" alt="2" src="https://github.com/user-attachments/assets/1a8169f8-8f1e-410e-aae9-86e5a5d621c4" />
+<img width="1918" height="1035" alt="3" src="https://github.com/user-attachments/assets/b16eeeb8-d6c8-49ab-b8f6-da85651fc2ab" />
+<img width="1917" height="1028" alt="4" src="https://github.com/user-attachments/assets/8be1ee4b-23ba-4cef-a753-738bba5cd6c1" />
+<img width="1916" height="1029" alt="5" src="https://github.com/user-attachments/assets/75a4355d-cf3e-4807-b00e-c4b89d4d75e1" />
+<img width="1919" height="1030" alt="6" src="https://github.com/user-attachments/assets/469bc152-1cab-481b-b119-67bd52d7a43e" />
+<img width="1919" height="1035" alt="7" src="https://github.com/user-attachments/assets/7523edfa-a1a6-49ad-8d3c-ac45793e0865" />
+<img width="1919" height="1028" alt="8" src="https://github.com/user-attachments/assets/f5823b39-7c6a-41c3-94ed-615acaff5121" />
+
+
 
 
 ## RESULT
